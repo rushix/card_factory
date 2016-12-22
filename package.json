@@ -1,0 +1,30 @@
+{
+  "name": "card_factroy",
+  "version": "0.0.1",
+  "description": "Card generating tool",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "ncp": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushix/card_factory.git"
+  },
+  "author": "Denis Eremin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rushix/card_factory/issues"
+  },
+  "homepage": "https://github.com/rushix/card_factory#readme"
+}
